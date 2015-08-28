@@ -1,3 +1,2 @@
-# lovezxh.github.io
-blogssss
-test
+# simplelist.github.io
+blog
